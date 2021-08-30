@@ -1,0 +1,57 @@
+rdbms
+stament
+ddl - data definarion language
+
+dml- data manipulation language
+example
+
+mysql
+
+orgal
+dra data
+microsoft sql server
+ibm db2
+
+structured data base
+
+row and colum based table
+
+nrdbms
+
+mongo dp
+casantra dp
+cosmo
+dynomo
+
+
+sql-structred query language
+
+
+
+quries
+
+create
+
+CREATE DATABASE db;
+
+create table
+
+CREATE TABLE Persons (
+    PersonID int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    Address varchar(255),
+    City varchar(255)
+);
+
+drop
+DROP DATABASE db;
+
+drop table
+DROP TABLE Shippers;
+TRUNCATE TABLE table_name;
+
+ALTER TABLE Customers
+ADD Email varchar(255);
+
+
